@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **joydeepbera264@gmail.com** For Collaboration/Project or A
 - 📫 **How to reach me:** joydeepbera264@gmail.com
 - 😄 **Pronouns:** Jay
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-- 🖼️ **clicking pictures:** natu_repeek (insta page)  
+- 🖼️ **clicking pictures:** https://www.instagram.com/natu_repeek?igsh=MXhqcWJvaXQ1aHpuYw== (insta page)  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joydeep61888) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joydeep-bera-560489361) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/BeraJoydee12846) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joydeepbera264@gmail.com) 
