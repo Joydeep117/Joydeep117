@@ -9,7 +9,9 @@ Email Me 👉 ✉️ **joydeepbera264@gmail.com** For Collaboration/Project or A
 - 📫 **How to reach me:** joydeepbera264@gmail.com
 - 😄 **Pronouns:** Jay
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-- 🖼️ **clicking pictures:** https://www.instagram.com/natu_repeek?igsh=MXhqcWJvaXQ1aHpuYw== (insta page)  
+- 🖼️ **clicking pictures:** https://www.instagram.com/natu_repeek?igsh=MXhqcWJvaXQ1aHpuYw== (insta page)
+
+Joydeep Bera is a second-year B.Tech student at Guru Nanak Institute of Technology with a strong interest in coding, problem-solving, and emerging technologies. He enjoys building practical projects, enhancing technical skills, and continuously learning to prepare for a successful career in the engineering and technology field.
 
 
 ## 🌐 Socials:
