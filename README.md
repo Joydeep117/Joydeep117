@@ -25,12 +25,6 @@ It's me , Joydeep Bera is a second-year B.Tech student at Guru Nanak Institute o
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joydeep6188) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/joydeep-bera-560489361) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://x.com/BeraJoydee12846) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joydeepbera2006@gmail.com) 
 
-<!-- Snake Game Repo View -->
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 
 # 💻 Tech Stack:
@@ -62,6 +56,11 @@ It's me , Joydeep Bera is a second-year B.Tech student at Guru Nanak Institute o
 [![](https://visitcount.itsvg.in/api?id=Joydeep117&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## ☕ **Support Me!**
 If you enjoy my work, consider **buying me a coffee** ☕  
