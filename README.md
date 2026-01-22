@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38C2FF&center=true&vCenter=true&width=650&lines=Passionate+about+Web+Development+%F0%9F%8C%90;Learning+Cloud+%26+Machine+Learning+%F0%9F%92%BB;Building+Open+Source+Projects+%E2%9C%A8;Always+Eager+to+Learn+More!+%F0%9F%91%8D" alt="Typing SVG" />
 </div>
 
-# 💫 Hi 👋, I'm Joydeep Bera
 **A passionate Web DEvoloper || from India**
 
 Email Me 👉 ✉️ **joydeepbera264@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -17,7 +16,6 @@ Email Me 👉 ✉️ **joydeepbera264@gmail.com** For Collaboration/Project or A
 - 📫 **How to reach me:** joydeepbera264@gmail.com
 - 😄 **Pronouns:** Jay
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-- 🖼️ **clicking pictures:** https://www.instagram.com/natu_repeek?igsh=MXhqcWJvaXQ1aHpuYw== (insta page)
 
 It's me , Joydeep Bera is a second-year B.Tech student at Guru Nanak Institute of Technology with a strong interest in coding, problem-solving, and emerging technologies. He enjoys building practical projects, enhancing technical skills, and continuously learning to prepare for a successful career in the engineering and technology field.
 
