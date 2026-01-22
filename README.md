@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Joydeep Bera </h1>
 <h3 align="center">🚀A passionate Web developer🚀</h3>
 
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38C2FF&center=true&vCenter=true&width=650&lines=Passionate+about+Web+Development+%F0%9F%8C%90;Learning+Cloud+%26+Machine+Learning+%F0%9F%92%BB;Building+Open+Source+Projects+%E2%9C%A8;Always+Eager+to+Learn+More!+%F0%9F%91%8D" alt="Typing SVG" />
+</div>
+
 # 💫 Hi 👋, I'm Joydeep Bera
 **A passionate Web DEvoloper || from India**
 
