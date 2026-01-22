@@ -54,14 +54,15 @@ It's me , Joydeep Bera is a second-year B.Tech student at Guru Nanak Institute o
 [![](https://visitcount.itsvg.in/api?id=Joydeep117&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ☕ **Support Me!**
+If you enjoy my work, consider **buying me a coffee** ☕  
+<a href="https://buymeacoffee.com/utsavkumarj" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="150">
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## ☕ **Support Me!**
-If you enjoy my work, consider **buying me a coffee** ☕  
-<a href="https://buymeacoffee.com/utsavkumarj" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="150">
+
 
