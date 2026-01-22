@@ -1,3 +1,7 @@
+<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%" >
+<h1 align="center">Hi 👋, I'm Joydeep Bera </h1>
+<h3 align="center">🚀A passionate Web developer🚀</h3>
+
 # 💫 Hi 👋, I'm Joydeep Bera
 **A passionate Web DEvoloper || from India**
 
