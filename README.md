@@ -30,16 +30,14 @@ It's me , Joydeep Bera is a second-year B.Tech student at Guru Nanak Institute o
 [<img src="https://i.ibb.co/VVz7MbY/Lx.gif" alt="Lx" border="0">]()
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Joydeep117&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Joydeep117&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joydeep117&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Joydeep117&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Joydeep117&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joydeep117&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Joydeep117&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[![](https://visitcount.itsvg.in/api?id=Joydeep117&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🏆 GitHub Trophies
