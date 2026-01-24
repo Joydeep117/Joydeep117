@@ -57,6 +57,13 @@ It's me , Joydeep Bera is a second-year B.Tech student at Guru Nanak Institute o
 If you enjoy my work, consider **buying me a coffee** ☕  
 <a href="https://buymeacoffee.com/utsavkumarj" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="150">
+
+  <h2 align="center">👨‍💻 Contribution Activity</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohamroyc&theme=github_dark" width="100%">
+</div>
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
