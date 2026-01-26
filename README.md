@@ -31,15 +31,8 @@ It's me , Joydeep Bera is a second-year B.Tech student at Guru Nanak Institute o
 [<img src="https://i.ibb.co/VVz7MbY/Lx.gif" alt="Lx" border="0">]()
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Joydeep117&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Joydeep117&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joydeep117&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Joydeep117&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+![](https://github-readme-stats.vercel.app/api?username=Joydeep117&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Joydeep117&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joydeep117&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
@@ -47,7 +40,6 @@ It's me , Joydeep Bera is a second-year B.Tech student at Guru Nanak Institute o
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Joydeep117&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
 
