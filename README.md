@@ -44,6 +44,13 @@ It's me , Joydeep Bera is a second-year B.Tech student at Guru Nanak Institute o
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Joydeep117&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
@@ -57,12 +64,3 @@ It's me , Joydeep Bera is a second-year B.Tech student at Guru Nanak Institute o
 If you enjoy my work, consider **buying me a coffee** ☕  
 <a href="https://buymeacoffee.com/utsavkumarj" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="150">
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
-
