@@ -1,9 +1,3 @@
-<div align="center">
-  
-![Soumya's Banner](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
-</div>
-
 
 <img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%" >
 <h1 align="center">Hi 👋, I'm Joydeep Bera </h1>
