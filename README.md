@@ -41,8 +41,10 @@ It's me , Joydeep Bera is a second-year B.Tech student at Guru Nanak Institute o
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Joydeep117&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
+
 
 <!-- Snake Game Repo View -->
 
